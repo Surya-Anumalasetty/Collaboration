@@ -1,0 +1,9 @@
+.head{
+    text-align: center;
+}
+div{
+    text-align: center;
+    border: 2px solid black;
+    padding-top: 20px;
+    margin-bottom: 10px;
+}
